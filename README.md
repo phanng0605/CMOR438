@@ -1,7 +1,5 @@
-### README.md
-# Custom Machine Learning Package
-
-For CMOR 438 modules: This project demonstrates a Python machine learning package built from scratch and applied to the Iris dataset.
+### Final project CMOR 438
+* For CMOR 438 modules: This project demonstrates a Python machine learning package built from scratch and applied to the Iris dataset.
 ---
 
 ## Features
